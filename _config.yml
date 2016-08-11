@@ -1,0 +1,14 @@
+layout_spectrum: 0.8073608956765383
+typography_spectrum: 0.7801067994441837
+color:
+  brandStrength: 0.5259150583297014
+  lightness: 0.36153133027255535
+  saturation: 0.46728547173552215
+  rhythmicContrast: 0.2508321749046445
+  brandColors:
+    - '#1C1D21'
+    - '#31353D'
+    - '#445878'
+    - '#92CDCF'
+    - '#EEEFF7'
+name: ambrogio
